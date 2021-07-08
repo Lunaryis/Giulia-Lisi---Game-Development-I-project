@@ -1,3 +1,3 @@
-# Giulia-Lisi---Game-Development-I-project
+# Giulia-Lisi-Game-Development-I-project
 
 Progetto esame di Giulia Lisi
